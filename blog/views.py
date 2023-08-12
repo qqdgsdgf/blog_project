@@ -8,6 +8,7 @@ from django.urls import reverse_lazy
 class BlogListView(ListView):
     model = PostDB
     template_name = 'home.html'
+    context_object_name = 'post_list'
 
 class BlogDetailView(DetailView):  # new
     model = PostDB
