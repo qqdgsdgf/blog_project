@@ -1,0 +1,4 @@
+asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
+Django @ file:///Users/ec2-user/ci_py311/django_1678411010555/work
+gunicorn @ file:///Users/ec2-user/ci_py311/gunicorn_1678412483754/work
+sqlparse @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cb77ukgrpu/croot/sqlparse_1690901947630/work
